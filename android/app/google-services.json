@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "496282928753",
+    "project_id": "ringss-4d0b8",
+    "storage_bucket": "ringss-4d0b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496282928753:android:1dd36b3d370b242e2d3dd0",
+        "android_client_info": {
+          "package_name": "com.example.project_a_b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0huwkmmpM9jcy1OBUl8TnyZUvr0-CmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496282928753:android:6469b47c93dd3fb72d3dd0",
+        "android_client_info": {
+          "package_name": "com.example.rings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0huwkmmpM9jcy1OBUl8TnyZUvr0-CmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<svg width="189" height="185" viewBox="0 0 189 185" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M144.361 133.5V183.5H188.361V133.5H144.361Z" fill="black" stroke="black"/>
+<path d="M143.986 89.25V133.625H188.361V89.25H143.986Z" fill="black" stroke="black"/>
+<path d="M99.6112 133.625V178H143.986V133.625H99.6112Z" fill="black" stroke="black"/>
+<path d="M99.6112 89.25V133.625H143.986V89.25H99.6112Z" fill="black" stroke="black"/>
+<path d="M55.2362 89.25L55.2362 133.625H99.6112V89.25H55.2362Z" fill="black" stroke="black"/>
+<path d="M10.8608 44.875L10.8608 89.25H55.2358L55.2358 44.875L10.8608 44.875Z" fill="black" stroke="black"/>
+<path d="M55.2362 44.875L55.2362 89.25H99.6112V44.875L55.2362 44.875Z" fill="black" stroke="black"/>
+<path d="M99.6112 44.875V89.25H143.986V44.875H99.6112Z" fill="black" stroke="black"/>
+<path d="M55.2362 0.499999V44.875H99.6112V0.499999H55.2362Z" fill="black" stroke="black"/>
+<path d="M1.00012 0.499999V44.5H55.0001V0.499999H1.00012Z" fill="black" stroke="black"/>
+<path d="M134.125 139.625V184H178.5V139.625H134.125Z" fill="#FF0000" stroke="#FF0000" stroke-width="0.5"/>
+<path d="M134.125 95.25V139.625H178.5V95.25H134.125Z" fill="#FF0000" stroke="#FF0000" stroke-width="0.5"/>
+<path d="M89.75 139.625V184H134.125V139.625H89.75Z" fill="#FFB4B4" stroke="#FFB4B4" stroke-width="0.5"/>
+<path d="M89.75 95.25V139.625H134.125V95.25H89.75Z" fill="#FFB4B4" stroke="#FFB4B4" stroke-width="0.5"/>
+<path d="M45.3746 95.25L45.3746 139.625H89.7496V95.25H45.3746Z" fill="#FFB4B4" stroke="#FFB4B4" stroke-width="0.5"/>
+<path d="M0.999999 50.875L0.999999 95.25H45.375L45.375 50.875L0.999999 50.875Z" fill="#FFB4B4" stroke="#FFB4B4" stroke-width="0.5"/>
+<path d="M45.3746 50.875L45.3746 95.25H89.7496V50.875L45.3746 50.875Z" fill="#FFB4B4" stroke="#FFB4B4" stroke-width="0.5"/>
+<path d="M89.75 50.875V95.25H134.125V50.875H89.75Z" fill="#FF0000" stroke="#FF0000" stroke-width="0.5"/>
+<path d="M45.3746 6.5V50.875H89.7496V6.5H45.3746Z" fill="#FF0000" stroke="#FF0000" stroke-width="0.5"/>
+<path d="M0.999999 6.5V50.875H45.375V6.5H0.999999Z" fill="#FF0000" stroke="#FF0000" stroke-width="0.5"/>
+</svg>
